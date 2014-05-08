@@ -1,5 +1,5 @@
 //
-//  GVViewController.h
+//  GVTableViewController.h
 //  UITableApp
 //
 //  Created by George Vina on 5/8/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface GVViewController : UIViewController
+@interface GVTableViewController : UITableViewController
 
 @end
